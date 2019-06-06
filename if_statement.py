@@ -32,3 +32,10 @@ elif not(is_male) and is_tall:
 else:
     print("You are not a male and not tall")
 
+### RESULT ###
+#1.
+#You are a male
+#2.
+#You are not a male or tall or both
+#3.
+#You are a male and tall
